@@ -50,7 +50,7 @@ btn_delete = Button(win, text= 'Delete', command= delete)
 btn_delete.place(x= 140, y= 340)
 btn_fetch = Button(win, text= 'Fetch', command= fetch)
 btn_fetch.place(x= 140, y= 380)
-
+print("mamado")
 
 win.mainloop()
 
